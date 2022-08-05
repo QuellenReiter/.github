@@ -1,3 +1,4 @@
+✅ [Fact Browser](https://fakten.quellenreiter.app) | 📱 [App](https://quellenreiter.app)
 # WELCHE GESELLSCHAFTLICHE HERAUSFORDERUNG ADRESSIERT UNSER PROTOTYP? 🚀
 
 Medienkompetenz ist eine Grundfähigkeit, um sich in der komplexen Medienlandschaft der heutigen Informationsgesellschaft zurechtzufinden. Da der Anteil der Menschen, die sich in ihrem Alltag über das Internet informieren, stetig steigt, ist es eine große gesellschaftliche Herausforderung, die Vertrauenswürdigkeit einzelner Quellen nachvollziehbar einstufen zu können.
